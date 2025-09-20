@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Faces folder (collected images)
+Faces/
+faces/
+
+# Images folder (assets/images)
+Images/
+images/
+
+# Temporary files from code runners
+tempCodeRunnerFile.py
+
+# OS generated files (optional)
+.DS_Store
+Thumbs.db
+
+# VSCode settings folder
+.vscode/
+
+# CSV and database files (optional, if you want to ignore them)
+*.csv
+*.db
